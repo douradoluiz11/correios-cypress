@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Feb 08 01:01:33 BRT 2023","Wed Feb 08 01:01:41 BRT 2023","8480","","BuscaCep","","","","Busca cep valido CEP_VALIDO (example #1)",""
+"passed","Wed Feb 08 01:01:41 BRT 2023","Wed Feb 08 01:01:45 BRT 2023","3586","","BuscaCep","","","","Busca cep invalido CEP_INVALIDO (example #1)",""
+"passed","Wed Feb 08 01:02:06 BRT 2023","Wed Feb 08 01:02:15 BRT 2023","9281","","BuscaCodrastreio","","","","Busca codigo invalido COD_INVALIDO (example #1)",""

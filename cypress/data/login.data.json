@@ -1,0 +1,29 @@
+[
+    {
+        "scenario": "CEP_VALIDO",
+        "data": {
+            "cepValido": "01013-001",
+            "msgSucesso": "Rua Quinze de Novembro"
+            
+           
+        }
+    },
+
+    {
+        "scenario": "CEP_INVALIDO",
+        "data": {
+            "cepInvalido": "80700000",
+            "msgErro": "Não há dados a serem exibidos"
+            
+        }
+    },
+
+    {
+        "scenario": "COD_INVALIDO",
+        "data": {
+            "rastreioInvalido": "“SS987654321BR”",
+            "msgErro": "Não há dados a serem exibidos"
+            
+        }
+    }
+]
